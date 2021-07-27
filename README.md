@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyanka Kakria
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning new languages like Java, Python, Android and JavaScript and creating exciting projects with these languages
-- 💞️ I’m looking for an internship position in Software Engineering in a company or a public organization
+- 💞️ I’m looking for a full-time position in Software Engineering in a company or a public organization
 - 📫 Reach me for my CV at https://www.linkedin.com/in/priyankakakria/
 
 <!---
